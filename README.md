@@ -33,3 +33,4 @@ Number Range:	1-75
 Total Number Combinations:	17,259,390
  
  
+# golotto
