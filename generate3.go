@@ -5,7 +5,11 @@ import (
 )
 
 func main() {
+<<<<<<< HEAD
 	comb(15, 5, func(c []int) {
+=======
+	comb(70, 5, func(c []int) {
+>>>>>>> 5566cd4dd7530de704e5e9e2581a59b05eaff927
 		fmt.Println(c)
 	})
 }
