@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	comb(56, 5, func(c []int) {
+	comb(15, 5, func(c []int) {
 		fmt.Println(c)
 	})
 }
