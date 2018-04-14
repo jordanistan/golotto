@@ -16,7 +16,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(" Hello Beautiful ")
+	fmt.Println(" Hello ....Are we feeling risky today? ")
 	/* At this point the script does an update to comon-numbers.txt also last winning number.*/
 
 	/* Websites with datato convert to csv
