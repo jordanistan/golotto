@@ -5,7 +5,10 @@ version         :0.1
 usage           :Golang menu.go
 
 					Comments
-This script will pull the winning lotto numbers from the history and compare numbers it generated. I hope to find a combination of winning numbers. By cross examing old numbers with new numbers I am hoping to slim down the odds .Think Card counting.
+This script will pull the winning lotto numbers from the history and compare numbers it generated.
+I hope to find a combination of winning numbers.
+By cross examing old numbers with new numbers I am hoping to slim down the odds.
+Think Card counting.
 
 */
 
