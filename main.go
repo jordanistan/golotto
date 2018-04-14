@@ -1,8 +1,6 @@
 /*
 title           :menu.go
-description     :This program displays an interactive menu on CLI
 author          :Jordan Robison
-date            :4-1-2018
 version         :0.1
 usage           :Golang menu.go
 
